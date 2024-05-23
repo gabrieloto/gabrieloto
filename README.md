@@ -5,7 +5,7 @@
 - 🔭 Atualmente estudante do 7° periodo de computação na UEPB .
 - 📖 Estudando front end.
 - 💪🏼 Trabalhando bastante para contruir meu futuro.
-- ❤️  Python, HTML, CSS, J, JS.
+- ❤️  React, HTML, CSS, JS.
 
 
 
